@@ -1,7 +1,9 @@
-# CalidadVino
+# Calidad Vino
 
 
 Análisis de Datos de Calidad Vino
+
+
 Este repositorio contiene código en Python para analizar la calidad de los vino. Se utiliza principalmente la biblioteca Pandas para la manipulación y análisis de datos, junto con otras bibliotecas como Seaborn y Matplotlib para la visualización.
 
 
